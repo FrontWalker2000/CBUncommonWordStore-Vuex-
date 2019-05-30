@@ -9,3 +9,6 @@
 -> 请求前置接口 
 -> ( web: 存储到local； app: 存储到桥接口) 
 -> 存储到vuex
+
+
+基于ifdefine实现web mp app三端兼容
